@@ -22,3 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </div>
+<h3 align="center">GitHub Traffic Insights</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anaj-krishna&label=Profile%20Views&color=blue" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaj-krishna&layout=compact" alt="Top languages" />
+</p>
