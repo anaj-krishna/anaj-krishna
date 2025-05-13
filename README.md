@@ -1,12 +1,143 @@
-### Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
+<h1 align="center">Anaj Krishna's Portfolio</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anaj-krishna/anaj-krishna/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="60%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anaj-krishna"><img src="https://img.shields.io/github/followers/anaj-krishna?label=Follow&style=social" alt="GitHub Followers" /></a>
+  <a href="https://linkedin.com/in/anaj-krishna"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
+</p>
+
+---
+
+## About Me
+
+I'm a Full Stack Developer and System Architect with an MSc in Computer Science (Data Science) from Cochin University of Science and Technology (2025). I specialize in scalable, data-driven solutions, with expertise in Machine Learning, Distributed Systems, and API Development. My projects, like the Judgment Analyzer for Kerala Police, demonstrate my ability to deliver impactful tech solutions.
+
+---
+
+## Expertise
+
+```text
+Full Stack Development    |    System Design    |    Data-Driven Architectures
+Machine Learning & AI     |    Distributed Systems    |    API Development
+
+Tech Stack
+Programming Languages
+
+  
+  
+  
+  
+  
+
+
+Frontend Frameworks
+
+  
+  
+  
+
+
+Backend Frameworks
+
+  
+  
+  
+  
+  
+
+
+Databases
+
+  
+  
+  
+  
+  
+
+
+DevOps & Cloud
+
+  
+  
+  
+  
+  
+  
+
+
+Machine Learning & AI
+
+  
+  
+  
+  
+  
+
+
+Messaging & Streaming
+
+  
+  
+
+
+Monitoring & Observability
+
+  
+  
+
+
+Other Tools
+
+  
+  
+  
+  
+
+
+
+GitHub Insights
+Animated Language Usage
+
+  
+
+
+GitHub Stats
+
+  
+  
+
+
+Activity Graph
+
+  
+
+
+
+Pinned Projects
+
+  
+  
+  
+
+
+
+Profile Views
+
+  
+
+
+
+Connect With Me
+
+  
+  
+  
+
+
+
+  Let's build something amazing together!
+
+```
