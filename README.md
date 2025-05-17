@@ -28,6 +28,3 @@
   <img src="https://komarev.com/ghpvc/?username=anaj-krishna&label=Profile%20Views&color=blue" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaj-krishna&layout=compact" alt="Top languages" />
-</p>
