@@ -7,11 +7,6 @@
 </div>
 
 
-<details>
-<summary><b>📚 My Journey</b></summary>
-<br>
-My passion for technology began when I built my first website at 13. Since then, I've been on a continuous learning journey, exploring the ever-evolving tech landscape. I believe in the power of technology to transform lives and am committed to creating impactful solutions.
-</details>
 
 ## <div align="center">🛠️ Tech Stack</div>
 
@@ -28,6 +23,7 @@ My passion for technology began when I built my first website at 13. Since then,
   ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
   
   ### Backend
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
