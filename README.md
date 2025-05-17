@@ -8,15 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-## <div align="center">🌟 About Me</div>
 
-I'm a passionate technologist working at the intersection of web development and machine learning. I enjoy building scalable applications and leveraging data to solve real-world problems.
-
-- 🔭 I'm currently working on **an AI-powered productivity application**
-- 🌱 I'm exploring **Large Language Models and Vector Databases**
-- 👯 Open to collaborate on **innovative open-source projects**
-- 💬 Ask me about **React, Node.js, Python, ML, or anything tech-related**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute**
 
 <details>
 <summary><b>📚 My Journey</b></summary>
@@ -62,7 +54,7 @@ My passion for technology began when I built my first website at 13. Since then,
   
 </div>
 
-## <div align="center">📊 GitHub Stats</div>
+## <div align="center">GitHub Stats</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anaj-krishna&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
@@ -73,22 +65,6 @@ My passion for technology began when I built my first website at 13. Since then,
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaj-krishna&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## <div align="center">🏆 GitHub Trophies</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anaj-krishna&theme=nord&column=7" alt="GitHub Trophies"/>
-</div>
-
-## <div align="center">🔥 Featured Projects</div>
-
-<div align="center">
-
-[![AI Assistant](https://github-readme-stats.vercel.app/api/pin/?username=anaj-krishna&repo=ai-assistant&theme=tokyonight)](https://github.com/anaj-krishna/ai-assistant)
-[![Data Viz Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=anaj-krishna&repo=data-viz-dashboard&theme=tokyonight)](https://github.com/anaj-krishna/data-viz-dashboard)
-[![E-commerce Platform](https://github-readme-stats.vercel.app/api/pin/?username=anaj-krishna&repo=ecommerce-platform&theme=tokyonight)](https://github.com/anaj-krishna/ecommerce-platform)
-[![ML Research](https://github-readme-stats.vercel.app/api/pin/?username=anaj-krishna&repo=ml-research&theme=tokyonight)](https://github.com/anaj-krishna/ml-research)
-
-</div>
 
 ## <div align="center">📈 Activity Graph</div>
 
@@ -102,13 +78,6 @@ My passion for technology began when I built my first website at 13. Since then,
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-## <div align="center">🎵 Currently Listening To</div>
-
-<div align="center">
-  
-  [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
-  
-</div>
 
 ## <div align="center">🤝 Connect With Me</div>
 
@@ -126,12 +95,6 @@ My passion for technology began when I built my first website at 13. Since then,
   <img src="https://komarev.com/ghpvc/?username=anaj-krishna&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
 </div>
 
-<div align="center">
-  
-  ### 🏅 Support My Work
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/anaj-krishna)
-  
-</div>
 
 ---
 
