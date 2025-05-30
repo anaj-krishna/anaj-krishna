@@ -13,25 +13,5 @@
 
 ---
 <p align="center">
-  <svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
-    <polyline 
-      fill="none"
-      stroke="#00FF00"
-      stroke-width="2"
-      stroke-linejoin="round"
-      stroke-linecap="round"
-      points="0,50 50,50 70,20 90,80 110,50 150,50 170,30 190,70 210,50 250,50 270,10 290,90 310,50 350,50 370,40 390,60 410,50 460,50"
-    >
-      <animate 
-        attributeName="points"
-        dur="2s"
-        repeatCount="1"
-        from="0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50 0,50"
-        to="0,50 50,50 70,20 90,80 110,50 150,50 170,30 190,70 210,50 250,50 270,10 290,90 310,50 350,50 370,40 390,60 410,50 460,50"
-        fill="freeze"
-      />
-    </polyline>
-  </svg>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/ecg.gif" alt="ECG graph animation" />
 </p>
-
-
