@@ -11,24 +11,6 @@
   <img src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,express,mongodb,postgres,git,github,docker,figma" />
 </p>
 
----
-## ✨ Project Constellation
-
-<div align="center">
-
-```
-    ⭐     🌟        ⭐
-        🚀 YOUR PROJECT 🚀
-    🌟        ⭐     🌟
-        ⭐              ⭐
-    🌌 Building the future, one commit at a time 🌌
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+the+%F0%9F%9A%80+Launch+Pad;Where+Code+Meets+Creativity" alt="Typing SVG" />
-
-</div>
-
----
 
 <table align="center">
 <tr>
