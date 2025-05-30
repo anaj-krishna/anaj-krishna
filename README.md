@@ -15,3 +15,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/ecg.gif" alt="ECG graph animation" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/angrykoala/animated-matrix-code-rain/main/matrix.gif" alt="Matrix Code Rain" width="300" />
+</p>
