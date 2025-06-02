@@ -29,5 +29,5 @@
 </tr>
 </table>
 
-![Visitor Count](https://profile-counter.glitch.me/anaj-krishna/count.svg)
+![Visitor Count](https://countapi.xyz/hit/anaj-krishna/anaj-krishna/badge)
 
