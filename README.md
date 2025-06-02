@@ -29,5 +29,5 @@
 </tr>
 </table>
 
-![Visitor Count](https://countapi.xyz/hit/anaj-krishna/anaj-krishna/badge)
 
+![Profile views](https://komarev.com/ghpvc/?username=anaj-krishna&color=red)
