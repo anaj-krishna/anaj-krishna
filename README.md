@@ -28,3 +28,6 @@
 </td>
 </tr>
 </table>
+
+![Visitor Count](https://profile-counter.glitch.me/anaj-krishna/count.svg)
+
