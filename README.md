@@ -14,7 +14,7 @@ I'm passionate about building scalable applications and exploring machine learni
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,express,mongodb,postgres,cpp,linux,git,github,gitlab,docker,figma,tensorflow,pytorch,anaconda,numpy,pandas,sklearn,matplotlib,jupyter,vscode,postman,redis,mysql,aws,heroku&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,express,mongodb,postgres,cpp,linux,git,github,gitlab,docker,figma,tensorflow,pytorch,anaconda,sklearn,vscode,postman,redis,mysql,aws,heroku&theme=dark" />
 
 ---
 
