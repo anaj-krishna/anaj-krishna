@@ -18,24 +18,16 @@ I'm passionate about building scalable applications and exploring machine learni
 
 ---
 
-## ✨ What I Do
 
-- ⚡ **Performance Optimized** - Lightning-fast applications with clean architecture
-- 🎨 **Beautiful Design** - Pixel-perfect UI/UX with responsive layouts
-- 🔧 **Clean Code** - Enterprise-ready solutions following best practices
-- 🧠 **ML Solutions** - Building intelligent systems with data analytics
-- 🚀 **Scalable Systems** - Robust applications that grow with your needs
-- 🔐 **Security First** - Implementing best security practices
 
 ---
 
-## 📊 Quick Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anaj-krishna&color=38BDAE&style=flat-square)
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -48,6 +40,5 @@ I'm passionate about building scalable applications and exploring machine learni
 
 <div align="center">
 
-**Made with ❤️ by Anaj Krishna**
 
 </div>
