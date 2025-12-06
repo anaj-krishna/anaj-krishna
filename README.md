@@ -1,14 +1,14 @@
-# 🌍 Hello, I'm Anaj Krishna
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-ML%20Enthusiast-00FF00?style=for-the-badge&logo=codeigniter&logoColor=white" />
+</p>
 
-**Full Stack Developer** | **ML Enthusiast** | **Problem Solver** | **Perpetual Learner**
+## 🚀 About
 
----
+<p style="color: #00FF00;">
+Passionate about building scalable applications and exploring machine learning. I work across the full stack, from frontend design to backend architecture, with a focus on clean code and optimal performance.
+</p>
 
-## 🚀 About Me
-
-I'm passionate about building scalable applications and exploring machine learning. I work across the full stack, from frontend design to backend architecture, with a focus on clean code and optimal performance.
-
-**📍 Currently active on:** [gitlab.com/anajkrishna77](https://gitlab.com/anajkrishna77)
+**📍 Currently Active:** [gitlab.com/anajkrishna77](https://gitlab.com/anajkrishna77)
 
 ---
 
@@ -18,12 +18,7 @@ I'm passionate about building scalable applications and exploring machine learni
 
 ---
 
-
-
----
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=anaj-krishna&color=38BDAE&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=anaj-krishna&color=00FF00&style=flat-square)
 
 ---
 
@@ -33,12 +28,5 @@ I'm passionate about building scalable applications and exploring machine learni
 
 [![GitLab](https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/anajkrishna77)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/anaj-krishna)
-
-</div>
-
----
-
-<div align="center">
-
 
 </div>
