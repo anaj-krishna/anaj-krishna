@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-ML%20Enthusiast-00FF00?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-ML%20Enthusiast-38B48B?style=for-the-badge&logo=codeigniter&logoColor=white" />
 </p>
 
 ## 🚀 About
 
-<p style="color: #00FF00;">
+<p style="color: #38B48B;">
 Passionate about building scalable applications and exploring machine learning. I work across the full stack, from frontend design to backend architecture, with a focus on clean code and optimal performance.
 </p>
 
@@ -18,7 +18,19 @@ Passionate about building scalable applications and exploring machine learning. 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=anaj-krishna&color=00FF00&style=flat-square)
+## 🏆 My GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaj-krishna&layout=compact&hide_title=true&langs_count=5&theme=react&bg_color=181717&title_color=38B48B&text_color=FFFFFF&border_color=38B48B" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaj-krishna&theme=dark&background=181717&date_color=38B48B&stroke=38B48B" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anaj-krishna&theme=onedark&no-bg=true&column=4&title_color=38B48B&rank_color=38B48B" alt="GitHub Trophies" />
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=anaj-krishna&color=38B48B&style=flat-square)
 
 ---
 
