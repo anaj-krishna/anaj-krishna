@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tailwind,nodejs,express,mongodb,postgres,fastapi,cpp,linux,git,github,gitlab,docker,figma,tensorflow,pytorch,anaconda,sklearn,vscode,postman,redis,mysql,aws,kubernetis,scrum,heroku&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tailwind,nodejs,express,mongodb,postgres,fastapi,cpp,linux,git,github,gitlab,docker,figma,tensorflow,pytorch,anaconda,sklearn,kafka,hadoop,vscode,postman,redis,mysql,aws,heroku&theme=dark" />
 </p>
 
 ---
