@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/SKILLS-FULL%20STACK%20%26%20MACHINE%20LEARNING-181717?style=for-the-badge&logo=codeigniter&logoColor=38B48B" alt="Primary Roles Badge" />
 </p>
 
-## Currently Active: [gitlab.com/anajkrishna77](https://gitlab.com/anajkrishna77)
+## Currently Active: gitlab.com/anajkrishna77](https://gitlab.com/anajkrishna77
 
 
 
