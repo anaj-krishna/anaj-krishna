@@ -12,7 +12,6 @@
 
 ---
 
-## My Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaj-krishna&theme=dark&background=181717&date_color=38B48B&stroke=38B48B" alt="GitHub Streak" />
